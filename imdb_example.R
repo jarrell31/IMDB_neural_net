@@ -1,5 +1,3 @@
-setwd("C:/Users/Owner/Desktop/The 9 Projects/Number Identification")
-
 #install.packages("keras")
 library(keras)
 install_keras(tensorflow = "gpu")
